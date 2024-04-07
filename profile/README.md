@@ -3,7 +3,7 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec risus dui. Aliquam erat volutpat. Nullam tempus sem non laoreet luctus. Vestibulum eu ullamcorper quam. Duis id feugiat enim. Fusce eleifend eleifend felis, sit amet ultrices sapien efficitur sit amet. Praesent suscipit convallis odio id placerat. Donec euismod placerat placerat. Nullam ac nisi euismod magna aliquet congue. Phasellus egestas scelerisque risus vitae vehicula. Suspendisse lorem elit, hendrerit ac nisi vel, molestie fermentum tortor. Pellentesque vitae ipsum vel quam hendrerit pretium sit amet nec leo. Quisque efficitur interdum nisi, sed cursus massa sagittis quis. Integer vel finibus orci, id dapibus urna. Phasellus scelerisque commodo erat vel tempor.
 
 ### Inserir Imagens no Markdown
-![Logo Lockheed Martin](https://github.com/Pescador-Software/.github/tree/main/images/LockheedMartinLogo.png "Título")
+![Logo Lockheed Martin](/images/LockheedMartinLogo.png "Título")
 
 ```javascript
 
